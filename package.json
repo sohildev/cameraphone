@@ -1,0 +1,30 @@
+{
+  "name": "cameraphone",
+  "version": "1.0.0",
+  "description": "best 64mp camera phone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohildev/cameraphone.git"
+  },
+  "keywords": [
+    "camera",
+    "phone",
+    "64mp",
+    "mobail"
+  ],
+  "author": "sohil mansuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohildev/cameraphone/issues"
+  },
+  "homepage": "https://github.com/sohildev/cameraphone#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
